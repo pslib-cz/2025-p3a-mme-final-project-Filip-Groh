@@ -2,7 +2,7 @@
 
 Create custom signs, social media handles, or names with this fully modular text system!
 
-This project consists of individual letter platforms that snap together like puzzle pieces. Just print the letters you need, print the corresponding number of bases, and connect them to spell out anything you want.
+This project consists of individual letters that snap together like puzzle pieces. Just print the letters you need, print the corresponding number of bases, and connect them to spell out anything you want.
 
 ### ⚠️ Project Notes & Settings
 
